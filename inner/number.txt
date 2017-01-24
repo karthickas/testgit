@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+
+    var x = true;
+    var y=false;
+    var z="5";
+    var a="hello";
+   
+document.write(  Number(x) + "<br>" + Number(y) + "<br>" + Number(z) + "<br>"+Number(a));
+    
+</script>
+
+</body>
+</html>

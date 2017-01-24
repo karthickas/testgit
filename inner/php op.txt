@@ -1,0 +1,3 @@
+Your input was received as:
+
+courses=Javascript
